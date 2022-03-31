@@ -1,7 +1,14 @@
+/*
+    Boris Divkovic
+    Komentarisan drugi zadatak sa prvog ispitnog roka osnova programiranja
+    Sve trazene funkcionalnosti zadovoljene
+    ! NAPOMENA: !
+        - Pogledati instrukcije o izradi zadatka prije citanja komentara
+*/
 #include <stdio.h>
 #include <stdlib.h>
 
-#define CRVENA 176 // deklarisanje konstanti za upotrebu kroz program
+#define CRVENA 176 // a) -> deklarisanje konstanti za upotrebu kroz program
 #define SIVA 177
 #define BIJELA 178
 #define CRNA 32
